@@ -57,7 +57,9 @@
 
 extern int xls_debug;
 
+#if 0
 static void xls_showBOUNDSHEET(void* bsheet);
+#endif
 
 static const DWORD colors[] =
     {
